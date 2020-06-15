@@ -1,2 +1,2 @@
 config:
-  info: "config test in spring-cloud-config"
+  info: "config test in spring-cloud-config version=2"
