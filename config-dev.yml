@@ -1,2 +1,2 @@
 config:
-  info: "config test in spring-cloud-config dev.yml version=3"
+  info: "config test in spring-cloud-config dev.yml version=4"
